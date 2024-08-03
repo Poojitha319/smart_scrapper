@@ -15,7 +15,7 @@ This repository contains a web scraping application built using Streamlit. The a
 1. Clone the repository:
     ```sh
     git clone https://github.com/Poojitha319/smart_scrapper
-    cd web-scraping-streamlit
+    cd smart_scrapper
     ```
 
 2. Install the required packages:
@@ -27,7 +27,7 @@ This repository contains a web scraping application built using Streamlit. The a
 
 1. Run the Streamlit application:
     ```sh
-    streamlit run app.py
+    streamlit run automatic_scrapper.py
     ```
 
 2. Open your web browser and go to `http://localhost:8501`.
